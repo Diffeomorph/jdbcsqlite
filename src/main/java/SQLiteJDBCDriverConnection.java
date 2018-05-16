@@ -7,7 +7,7 @@ public class SQLiteJDBCDriverConnection {
     public static void connect(){
         Connection conn = null;
         try {
-            String url = "jdbc:sqlite:C:/Users/gf1721/IdeaProjects/javadbsqlite/src/main/resources/chinook.db";
+            String url = "String.................db";
 
             conn = DriverManager.getConnection(url);
 
