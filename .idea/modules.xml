@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadbsqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/javadbsqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadbsqlite_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javadbsqlite_main.iml" group="javadbsqlite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadbsqlite_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javadbsqlite_test.iml" group="javadbsqlite" />
+    </modules>
+  </component>
+</project>
