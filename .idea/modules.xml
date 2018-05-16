@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadbsqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/javadbsqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadbsqlite_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javadbsqlite_main.iml" group="javadbsqlite" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadbsqlite_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javadbsqlite_test.iml" group="javadbsqlite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqlitejava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sqlitejava_main.iml" group="sqlitejava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqlitejava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sqlitejava_test.iml" group="sqlitejava" />
     </modules>
   </component>
 </project>

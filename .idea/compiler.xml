@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="javadbsqlite_main" target="1.8" />
       <module name="javadbsqlite_test" target="1.8" />
+      <module name="sqlitejava_main" target="1.8" />
+      <module name="sqlitejava_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
